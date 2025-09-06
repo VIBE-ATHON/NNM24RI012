@@ -1,5 +1,7 @@
 sitelink: https://swiftattend.mgx.world
+
 https://mgx.dev/app/8ab5b99c00ce4608b691f761fd7b468c
+
 # Shadcn-UI Template Usage Instructions
 
 ## technology stack
